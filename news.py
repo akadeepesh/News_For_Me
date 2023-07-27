@@ -5,7 +5,7 @@ from docx.shared import Pt
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 from bs4 import BeautifulSoup
 
-NEWS_API_KEY = "e9d4b6c54f504ef89f89a16170984171"
+NEWS_API_KEY = "..."
 
 
 def fetch_current_affairs():
